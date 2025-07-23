@@ -2,8 +2,6 @@
 
 An end-to-end modern data engineering project that leverages the Azure ecosystem and Databricks to build an automated, scalable ETL pipeline using Medallion Architecture.
 
-> 👏 Inspired by [Ansh Lamba](https://www.youtube.com/@anshlamba) — this project replicates and expands on his Netflix ETL pipeline walkthrough.
-
 ---
 
 ## ✨ Overview
@@ -73,11 +71,13 @@ This project demonstrates how to:
 
 ## 🚀 Architecture Diagram
 
-![Architecture Flow](./images/architecture-diagram.png)
+<img width="1465" height="746" alt="Screenshot 2025-07-09 201748" src="https://github.com/user-attachments/assets/eaf86fa0-593e-41d8-b54f-25becc24f011" />
+
 
 ## 🚀 Delta Live Tables Flow
 
-![DLT Flow](./images/delta-live-tables.png)
+<img width="705" height="597" alt="Screenshot 2025-07-13 004127" src="https://github.com/user-attachments/assets/7d2a0f3b-4fe1-4711-a2c6-a8e081a61a86" />
+
 
 ---
 
@@ -92,6 +92,6 @@ This project demonstrates how to:
 
 ## 🌟 Let’s Connect!
 
-If you're working on similar projects or looking to collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+If you're working on similar projects or looking to collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/atif776).
 
 ---
